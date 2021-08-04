@@ -1,5 +1,9 @@
 import Dispatch
 
+//Modified from https://github.com/raywenderlich/swift-algorithm-club/tree/master/DiningPhilosophers
+// 
+
+
 let numberOfPhilosophers = 4
 
 struct ForkPair {
